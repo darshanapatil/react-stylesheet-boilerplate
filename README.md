@@ -1,4 +1,4 @@
-# Simple webpack boilerplate
+# Simple boilerplate which has example of Webpack and StyleComponent.
 
 A ready to use simple webpack boilerplate.
 
